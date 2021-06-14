@@ -1,6 +1,6 @@
 # majorProject
  
-Python project made for my major project. The program performs binary image segmentation on breast ultrasound images.
+Python project made for my major project/dissertation purposes. The program performs binary image segmentation on breast ultrasound images.
 As a first step, the program process data with specified image processing technique which resulted in following datasets:
 1. Original dataset
 2. Blob detection using Laplacian of Gaussian dataset
