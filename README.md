@@ -16,6 +16,7 @@ As a first step, the program process data with specified image processing techni
 While having different datasets, the UNET model was trained and tested using every single dataset and the results were
 compared using dice coefficient. The results could be valuable insights in developing CAD systems for breast cancer detection using BUS images.
 
+Project achieved first grade from both markers (the best grade you can get).
 
 Abstract from the paper:
 
