@@ -1,6 +1,7 @@
 # majorProject
  
-Python project made for my major project/dissertation purposes. The program performs binary image segmentation on breast ultrasound images.
+Python project made for my major project/dissertation purposes. Python research project made for my major project/dissertation purposes. The program performs binary image segmentation using deep learning (U-Net) on breast ultrasound images pre-processed by different techniques. The project's purpose was to find the optimal image pre-processing method for ultrasound images to maximize segmentation's accuracy.
+
 As a first step, the program process data with specified image processing technique which resulted in following datasets:
 1. Original dataset
 2. Blob detection using Laplacian of Gaussian dataset
